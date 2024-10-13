@@ -1,0 +1,3 @@
+export const INCREMENT = 'INCREMENT', 
+        DECREMENT = 'DECREMENT',
+        CHANGE_THEME = 'CHANGE_THEME'
